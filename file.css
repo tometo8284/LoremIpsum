@@ -1,0 +1,136 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #EC715F;
+  height: 70px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.rogo {
+  font-size: 30px;
+  width: 70px;
+  margin: 0 auto;
+  color: #FAFAFA;
+}
+
+.nav-list {
+  display: flex;
+}
+
+li {
+  padding-right: 30px;
+  color: #FAFAFA;
+}
+
+.title {
+  height: 650px;
+  width: 100%;
+  background-image: url(imgLoremIpsum/mv.png);
+  color: #FAFAFA;
+  text-align: center;
+  padding-top: 200px;
+}
+
+.title h1 {
+  font-size: 64px;
+}
+
+.title p {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+.box {
+  width: 980px;
+}
+
+.box h3 {
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 8px; 
+}
+
+.box p {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.img-box {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 80px;
+}
+
+.portfolio-image {
+  height: 250px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+.feature-box {
+  width: 920px;
+}
+
+.strength {
+  display: flex;
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+.strength-box {
+  margin: 0 auto;
+  width: 320px;
+  height: auto;
+  font-size: 20px;
+  padding-right: 1px;
+}
+
+.strength-box:last-child {
+  padding-right: 0px;
+}
+
+.strength i {
+  margin: 0 auto;
+  font-size: 32px;
+}
+
+.strength p {
+  text-align: left;
+  font-size: 16px;
+}
+
+.profile-box2 {
+  display: flex;
+}
+
+.profile-image {
+  width: 250px;
+  height: 250px;
+  border-radius: 90%;
+}
+
+.name {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.name h4 {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+.skill h4 {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
