@@ -47,6 +47,8 @@ li {
 
 h3 {
   font-size: 32px;
+  border-bottom: 2px solid;
+  border-color: orange;
 }
 
 .box {
@@ -134,3 +136,36 @@ h3 {
   font-size: 20px;
 }
 
+.contact-box {
+  width: 800px;
+}
+
+.contact-box2 {
+  display: flex;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+.contact-box2 p {
+  margin-top: 5px;
+  font-size: 15px;
+}
+
+.contact-box2 i {
+  font-size: 50px;
+  margin-top: 5px;
+  padding-right: 20px;
+}
+
+.footer {
+  height: 60px;
+  background-color: #EC715F;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 16px;
+}
+  
